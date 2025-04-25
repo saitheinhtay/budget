@@ -52,3 +52,4 @@ while True:
     if input("\n🔄 Play again? (yes/no): ").lower().startswith('n'):
         print(f"Final score: {score}. Thanks for playing! 👋")
         break
+
